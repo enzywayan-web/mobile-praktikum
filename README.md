@@ -1,17 +1,25 @@
-# aplikasi_pertama
+# Proyek
 
-A new Flutter project.
+Pemrograman Mobile
 
-## Getting Started
+## Deskripsi
 
-This project is a starting point for a Flutter application.
+Aplikasi latihan untuk memenuhi tugas praktikum Pemrograman Mobile menggunakan Flutter. Proyek ini merupakan aplikasi pertama yang dibuat dalam proses pembelajaran dan pengenalan aplikasi mobile.
 
-A few resources to get you started if this is your first Flutter project:
+## Tujuan
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+Tujuan dari aplikasi ini adalah sebagai proyek awal untuk mempelajari pengembangan aplikasi mobile menggunakan Flutter. Aplikasi ini dibuat untuk memahami dasar pembuatan project Flutter, penggunaan widget, serta proses menjalankan aplikasi pada emulator.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Rencana Fitur
+
+1. Tampilan halaman utama aplikasi.
+2. Menampilkan informasi atau konten sederhana pada aplikasi.
+3. Menambahkan interaksi sederhana pada aplikasi.
+
+## Cara Menjalankan
+
+Pastikan Flutter dan perangkat/emulator sudah terpasang dan dapat digunakan. Jalankan perintah berikut pada terminal di folder proyek:
+
+```bash
+flutter pub get
+flutter run
